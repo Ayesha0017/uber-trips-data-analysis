@@ -28,6 +28,11 @@ The dataset contains records of Uber trips with the following columns:
 - Created line plots to compare:
   - Total number of rides per month
   - Maximum miles traveled per month
+  - which date has most count of rides
+  - Months vs value counts 
+  - Count of category, purpose the cabs were used for
+  - The time(day-night) when the cabs were most used
+
 - Used `seaborn` for clear, aesthetic plots.
 - Handled month labeling using a custom dictionary:
   ```python
